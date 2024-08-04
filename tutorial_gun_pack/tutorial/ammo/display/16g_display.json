@@ -1,0 +1,18 @@
+{
+  // 弹药堆模型
+  "model": "tacz:ammo/12g",
+  // 弹药堆模型贴图
+  "texture": "tacz:ammo/uv/12g",
+  // 背包 2D 贴图
+  "slot": "tutorial:ammo/slot/16g",
+  // 弹壳模型和贴图
+  "shell": {
+    "model": "tutorial:shell/16g_shell",
+    "texture": "tutorial:shell/16g_shell"
+  },
+  // 子弹实体模型和贴图
+  "entity": {
+    "model": "tutorial:ammo_entity/my_ammo_entity_geo",
+    "texture": "tutorial:ammo_entity/my_ammo_entity"
+  }
+}
