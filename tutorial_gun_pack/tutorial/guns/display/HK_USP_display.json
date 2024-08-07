@@ -40,6 +40,13 @@
         "silence_3p": "tacz:glock_17/glock17_silence_3p",
         "draw": "tacz:glock_17/glock17_draw"
     },
+
+    "muzzle_flash": {
+        // 枪口火焰贴图路径
+        "texture": "tac:flash/common_muzzle_flash",
+        // 缩放系数
+        "scale": 1
+      },
     
     "transform": {
         "scale": {
