@@ -73,8 +73,7 @@
     "lie": 0.7,
     "aim": 0.2
   },
-    // 开放的配件槽。未指定的槽位默认关闭。全部配件槽类型有:
-  // scope, stock, muzzle, grip, laser, extended_mag
+   
   "allow_attachment_types": [    
     "muzzle",
     "laser",
