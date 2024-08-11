@@ -31,14 +31,17 @@
     
 
     "sounds": {
-        "shoot": "tutorial:HK_USP/HKUSP_shoot",
-        "shoot_3p": "tutorial:HK_USP/HKUSP_shoot",
-        "dry_fire": "tacz:dry_fire",
+        "shoot": "tutorial:usp_unsilenced_01",
+        "shoot_3p": "tutorial:usp_unsilenced_01",
+        "dry_fire": "tutorial:clipempty_pistol",
         "reload_tactical": "tacz:glock_17/glock17_reload_tactical",
         "reload_empty": "tacz:glock_17/glock17_reload_empty",
-        "silence": "tutorial:HK_USP/HKUSP_silence",
-        "silence_3p": "tutorial:HK_USP/HKUSP_silence",
-        "draw": "tacz:glock_17/glock17_draw"
+        "silence": "tutorial:usp_01",
+        "silence_3p": "tutorial:usp_01",
+        "draw": "tutorial:usp_draw",
+        "head_hit":"tutorial:headshot_armor_e1",
+        "flesh_hit":"tutorial:kevlar3",
+        "kill":"tutorial:headshot_noarmor_02"
     },
 
     "muzzle_flash": {

@@ -2,10 +2,6 @@
   "slot": "tutorial:ammo/slot/45acp",
   "texture": "tutorial:ammo/uv/45acp",
   "model" : "tutorial:ammo/45acp",
-  "tracer_color": "#ffb373",
-  "shell": {
-    "model": "tutorial:shell/45acp_shell",
-    "texture": "tutorial:shell/45acp_shell"
-  }
+  "tracer_color": "#ffb373"
 }
     
