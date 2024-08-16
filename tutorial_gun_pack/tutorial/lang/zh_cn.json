@@ -1,0 +1,10 @@
+{
+  "pack.tutorial.name": "Tutorial Gun Pack",
+  "pack.tutorial.desc": "乔孙的测试抢包，目前制作cs武器.",
+      "tutorial.gun.ak47.name": "雷明顿 M870",
+        "tutorial.ammo.16g.name": "16 号 独头弹",
+        "tutorial.ammo.45acp.name": ".45 acp",
+        "tutorial.gun.HKUSP.name": "HK USP",
+        "tutorial.attachment.USPsilencer.name":"HK USP 消音器",
+        "tutorial.gun.HKUSP.desc":"精准，消音，（某种程度上）致命\n建议在第一回合上半场购入"
+}

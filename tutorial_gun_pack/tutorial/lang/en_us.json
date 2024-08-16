@@ -3,5 +3,8 @@
   "pack.tutorial.desc": "Just a gun pack for tutorial.",
       "tutorial.gun.ak47.name": "Remington M870",
         "tutorial.ammo.16g.name": "16 Gauge Slut",
-        "tutorial.ammo.45acp.name": ".45 acp"
+        "tutorial.ammo.45acp.name": ".45 acp",
+        "tutorial.gun.HKUSP.name": "HK USP",
+        "tutorial.attachment.USPsilencer.name":"HK USP Silencer",
+        "tutorial.gun.HKUSP.desc":"Precise, silenced,and (somewhat) deadly.\nRecommended to be bought in the first half of the first round."
 }

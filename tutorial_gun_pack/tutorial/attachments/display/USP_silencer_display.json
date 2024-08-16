@@ -1,0 +1,24 @@
+{
+  
+  "slot": "tutorial:attachments/slot/USP_silencer",
+  
+  "model": "tutorial:attachments/USP_silencer_geo",
+  
+  "texture": "tutorial:attachments/uv/USP_silencer",
+  
+
+  
+  
+  "scope": false,
+  
+  "sight": false,
+
+  "fov": 70.0,
+  
+  "sounds": {
+   
+    "install": "tacz:attachments/scope_general_e",
+   
+    "uninstall": "tacz:attachments/scope_general_e"
+  }
+}
