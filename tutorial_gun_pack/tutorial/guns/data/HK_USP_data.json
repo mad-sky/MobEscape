@@ -16,8 +16,8 @@
         {"distance": "infinite", "damage": 4}
       ]
     },
-    "speed": 150,
-    "gravity": 0.098,
+    "speed": 450,
+    "gravity": 0.048,
     "knockback": 0,
     "friction": 0.025,
     "ignite": false,
@@ -29,16 +29,16 @@
     16,
     19
   ],
-  "bolt": "closed_bolt",
+  "bolt": "open_bolt",
   "reload": {
     "type": "magazine",
     "feed": {
-      "empty": 1.63,
-      "tactical": 1.05
+      "empty": 0.79,
+      "tactical": 0.79
     },
     "cooldown": {
-      "empty": 1.88,
-      "tactical": 1.5
+      "empty": 2.14,
+      "tactical": 2.14
     }
   },
   "draw_time": 0.32,
