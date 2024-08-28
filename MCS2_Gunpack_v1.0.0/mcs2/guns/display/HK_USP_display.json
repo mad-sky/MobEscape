@@ -1,14 +1,14 @@
 {
    
-    "model": "mcs2:gun/HK_USP_geo",
+    "model": "MCS2:gun/HK_USP_geo",
    
-    "texture": "mcs2:gun/uv/USP",
+    "texture": "MCS2:gun/uv/USP",
    
-    "slot": "mcs2:gun/slot/HK_USP",
+    "slot": "MCS2:gun/slot/HK_USP",
    
-    "hud": "mcs2:gun/hud/HK_USP",
+    "hud": "MCS2:gun/hud/HK_USP",
       
-    "animation": "mcs2:HK_USP",
+    "animation": "MCS2:HK_USP",
    
     "use_default_animation": "pistol",
 
@@ -31,18 +31,18 @@
     
 
     "sounds": {
-        "shoot": "mcs2:usp_unsilenced_01",
-        "shoot_3p": "mcs2:usp_unsilenced_01",
-        "dry_fire": "mcs22:clipempty_pistol",
-        "reload_tactical": "mcs2:HK_USP/HKUSP_reload",
-        "reload_empty": "mcs2:HK_USP/HKUSP_reload",
-        "silence": "mcs2:usp_01",
-        "silence_3p": "mcs2:usp_01",
-        "draw": "mcs2:HK_USP/HKUSP_draw",
-        "inspect": "mcs2:HK_USP/HKUSP_inspect",
-        "head_hit":"mcs2:headshot_armor_e1",
-        "flesh_hit":"mcs2:kevlar3",
-        "kill":"mcs2:headshot_noarmor_02"
+        "shoot": "MCS2:usp_unsilenced_01",
+        "shoot_3p": "MCS2:usp_unsilenced_01",
+        "dry_fire": "MCS2:clipempty_pistol",
+        "reload_tactical": "MCS2:HK_USP/HKUSP_reload",
+        "reload_empty": "MCS2:HK_USP/HKUSP_reload",
+        "silence": "MCS2:usp_01",
+        "silence_3p": "MCS2:usp_01",
+        "draw": "MCS2:HK_USP/HKUSP_draw",
+        "inspect": "MCS2:HK_USP/HKUSP_inspect",
+        "head_hit":"MCS2:headshot_armor_e1",
+        "flesh_hit":"MCS2:kevlar3",
+        "kill":"MCS2:headshot_noarmor_02"
     },
 
     "muzzle_flash": {
