@@ -1,0 +1,9 @@
+{
+  "pack.mcs2.name": "MCS2附属包",
+  "pack.mcs2.desc": "反恐精英，再度闪耀.",          
+        "mcs2.ammo.45acp.name": ".45 acp",
+        "mcs2.gun.HKUSP.name": "HK USP",
+        "mcs2.attachment.USPsilencer.name":"HK USP 消音器",
+        "mcs2.gun.HKUSP.desc":"精准，消音，（某种程度上）致命\n建议在第一回合上半场购入"
+       
+}

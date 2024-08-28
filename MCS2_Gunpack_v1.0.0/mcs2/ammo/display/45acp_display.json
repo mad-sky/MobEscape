@@ -1,0 +1,13 @@
+{
+  "slot": "mcs2:ammo/slot/45acp",
+  "texture": "mcs2:ammo/uv/45acp",
+  "model" : "mcs2:ammo/45acp",
+  "tracer_color": "#ffb373",
+
+  "shell": {
+    "model": "mcs2:shell/45acp_shell",
+    "texture": "mcs2:shell/45acp_shell"
+  }
+
+}
+    
