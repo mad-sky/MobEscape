@@ -1,0 +1,79 @@
+{
+   
+    "model": "mcs2:gun/HK_USP_geo",
+   
+    "texture": "mcs2:gun/uv/USP",
+   
+    "slot": "mcs2:gun/slot/HK_USP",
+   
+    "hud": "mcs2:gun/hud/HK_USP",
+      
+    "animation": "mcs2:HK_USP",
+   
+    "use_default_animation": "pistol",
+
+       
+          
+    "shell": {
+       
+        "initial_velocity": [5, 2, 1],
+       
+        "random_velocity": [1, 1, 0.25],
+       
+        "acceleration": [0.0, -10, 0.0],
+       
+        "angular_velocity": [360, -1200, 90],
+      
+        "living_time": 1.0
+    },
+
+    
+    
+
+    "sounds": {
+        "shoot": "mcs2:usp_unsilenced_01",
+        "shoot_3p": "mcs2:usp_unsilenced_01",
+        "dry_fire": "mcs22:clipempty_pistol",
+        "reload_tactical": "mcs2:HK_USP/HKUSP_reload",
+        "reload_empty": "mcs2:HK_USP/HKUSP_reload",
+        "silence": "mcs2:usp_01",
+        "silence_3p": "mcs2:usp_01",
+        "draw": "mcs2:HK_USP/HKUSP_draw",
+        "inspect": "mcs2:HK_USP/HKUSP_inspect",
+        "head_hit":"mcs2:headshot_armor_e1",
+        "flesh_hit":"mcs2:kevlar3",
+        "kill":"mcs2:headshot_noarmor_02"
+    },
+
+    "muzzle_flash": {
+       
+        "texture": "tacz:flash/common_muzzle_flash",
+       
+        "scale": 0.4
+      },
+    
+    "transform": {
+        "scale": {
+            
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+           
+            "fixed": [
+                1.2,
+                1.2,
+                1.2
+            ]
+        }
+    },
+     
+    "third_person_animation": "default"
+}
