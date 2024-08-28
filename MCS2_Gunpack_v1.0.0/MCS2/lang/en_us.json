@@ -1,9 +1,0 @@
-{
-  "pack.MCS2.name": "MCS2 Gunpack",
-  "pack.MCS2.desc": "Counter-strike,shining again",   
-        "MCS2.ammo.45acp.name": ".45 acp",
-        "MCS2.gun.HKUSP.name": "HK USP",
-        "MCS2.attachment.USPsilencer.name":"HK USP Silencer",
-        "MCS2.gun.HKUSP.desc":"Precise, silenced,and (somewhat) deadly.\nRecommended to be bought in the first half of the first round."
-        
-}
