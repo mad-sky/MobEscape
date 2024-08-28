@@ -1,0 +1,10 @@
+{
+  
+  "name": "tutorial.attachment.USPsilencer.name",
+  
+  "display": "tutorial:USP_silencer_display",
+  
+  "data": "tutorial:USP_silencer_data",
+ 
+  "type": "muzzle"
+}
