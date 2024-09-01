@@ -1,11 +1,11 @@
 {
    
-    "name": "MCS2.gun.HKUSP.name",
+    "name": "mcs2.gun.HKUSP.name",
    
-    "display": "MCS2:HK_USP_display",
+    "display": "mcs2:HK_USP_display",
     
-    "data": "MCS2:HK_USP_data",
-    "tooltip": "MCS2.gun.HKUSP.desc",
+    "data": "mcs2:HK_USP_data",
+    "tooltip": "mcs2.gun.HKUSP.desc",
    
     "type": "pistol",
     

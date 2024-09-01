@@ -1,10 +1,10 @@
 {
   
-  "slot": "tutorial:attachments/slot/USP_silencer",
+  "slot": "mcs2:attachments/slot/USP_silencer",
   
-  "model": "tutorial:attachments/USP_silencer_geo",
+  "model": "mcs2:attachments/USP_silencer_geo",
   
-  "texture": "tutorial:attachments/uv/USP_silencer",
+  "texture": "mcs2:attachments/uv/USP_silencer",
   
 
   

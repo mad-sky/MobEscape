@@ -1,10 +1,6 @@
 {
-  
-  "name": "tutorial.attachment.USPsilencer.name",
-  
-  "display": "tutorial:USP_silencer_display",
-  
-  "data": "tutorial:USP_silencer_data",
- 
+  "name": "mcs2.attachment.USPsilencer.name",
+  "display": "mcs2:USP_silencer_display",
+  "data": "mcs2:USP_silencer_data",
   "type": "muzzle"
 }

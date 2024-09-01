@@ -1,0 +1,68 @@
+{
+
+  "materials": [
+    {
+      "item": {
+     
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 36
+    },      
+
+    {
+      "item": {
+     
+        "item": "minecraft:glow_ink_sac"
+      },
+      "count": 1
+    },      
+
+    {
+      "item": {
+     
+        "item": "minecraft:lime_dye"
+      },
+      "count": 1
+    },    
+
+    {
+      "item": {
+     
+        "item": "minecraft:red_dye"
+      },
+      "count": 1
+    },    
+
+    {
+      "item": {
+     
+        "item": "minecraft:white_dye"
+      },
+      "count": 1
+    },    
+
+    {
+      "item": {
+     
+        "item": "minecraft:quartz"
+      },
+      "count": 4
+    }   
+    
+  ],
+ 
+  "result": {
+    
+    "type": "gun",
+   
+    "id": "mcs2:HK_USP",
+  
+   
+    "attachments": {
+      
+       "muzzle": "mcs2:USP_silencer"
+    }
+   
+    
+  }
+}
